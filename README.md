@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Nuwan Kannangara! 👋
 
-<!--
-**kannangaranv/kannangaranv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate in Electronic and Telecommunication Engineering at the University of Moratuwa, with a passion for software engineering, machine learning, and blockchain technology.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning Electronic and Telecommunication Engineering
+- 💡 I’m particularly interested in **Software Engineering**, **Machine Learning**, and **Blockchain**.
+
+## 🛠️ Skills
+
+- **Programming Languages:** Python, JavaScript, Java, C++
+- **Frameworks & Libraries:** Spring-boot, Web3.js, TensorFlow
+- **Tools:** Git, Docker, Android Studio
+- **Areas of Expertise:** Machine Learning, Blockchain, Web development
+
+
+Thanks for visiting my profile! Feel free to connect or collaborate on projects. 😄
