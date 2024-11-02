@@ -70,4 +70,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original-wordmark.svg" alt="unity" width="40" height="40"/> 
   </a> 
 
+<h3 align="left">GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://readme-stats-nine-delta.vercel.app/api/?username=kannangaranv&layout=donut&size_weight=0&count_weight=1&hide=css,scss,jupyter%20notebook,kotlin,nix,dockerfile&langs_count=5&theme=tokyonight&title_color=aaaeff&text_color=aaaeff&hide_border=true&border_color=8&rank_icon=percentile&include_all_commits=true" height="200">
+  <img src="https://readme-stats-nine-delta.vercel.app/api/top-langs/?username=kannangaranv&layout=donut&size_weight=0&count_weight=1&hide=css,scss,jupyter%20notebook,kotlin,nix,dockerfile&langs_count=5&theme=tokyonight&title_color=aaaeff&text_color=aaaeff&hide_border=true&border_color=8" height="200">
+</p>
 
