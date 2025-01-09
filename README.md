@@ -13,6 +13,10 @@
     </a>
 </p>
 
+<h3 align="center">
+    🌟 <a href="https://kannangaranv-github-io-h3g9.vercel.app/" target="_blank">Check Out My Portfolio</a> 🌟
+</h3>
+
 <h3 align="center">📚 Undergraduate in Electronic and Telecommunication Engineering</h3>
 <h3 align="center">💻 Software Engineering Intern | 🌐 Tech Enthusiast</h3>
 
