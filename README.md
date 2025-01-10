@@ -16,8 +16,6 @@
 <h3 align="center">
     🌟 <a href="https://kannangaranv-github-io-h3g9.vercel.app/" target="_blank">Check Out My Portfolio</a> 🌟
 </h3>
-
-![Profile Views](https://komarev.com/ghpvc/?username=kannangaranv&style=flat-square)
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kannangaranv&color=blue" alt="Profile Views" />
 </div>
