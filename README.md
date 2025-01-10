@@ -17,6 +17,9 @@
     🌟 <a href="https://kannangaranv-github-io-h3g9.vercel.app/" target="_blank">Check Out My Portfolio</a> 🌟
 </h3>
 
+![Profile Views](https://komarev.com/ghpvc/?username=kannangaranv&style=flat-square)
+
+
 <h3 align="center">📚 Undergraduate in Electronic and Telecommunication Engineering</h3>
 <h3 align="center">💻 Software Engineering Intern | 🌐 Tech Enthusiast</h3>
 
