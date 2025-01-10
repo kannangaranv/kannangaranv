@@ -18,6 +18,9 @@
 </h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kannangaranv&style=flat-square)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kannangaranv&color=blue" alt="Profile Views" />
+</div>
 
 
 <h3 align="center">📚 Undergraduate in Electronic and Telecommunication Engineering</h3>
